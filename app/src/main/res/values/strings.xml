@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMusicApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="files">
+        <item>Gush.mp3</item>
+        <item>Foolish Behavior.mp3</item>
+        <item>Little Of Your Time.mp3</item>
+        <item>Makes Me Wonder.mp3</item>
+        <item>Sleeping with a Friend.mp3</item>
+    </string-array>
+</resources>
